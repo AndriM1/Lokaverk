@@ -4,3 +4,5 @@ Fékk hugmyndir hvaða leik ég ættla að velja og ég valdi "League of Legends
 26.4.2018
 Byrjaði ég að stíla síðuna.
 
+3.5.2018
+Ég kláraði síðuna og allt inná GitHub.
