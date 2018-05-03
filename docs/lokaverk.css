@@ -1,0 +1,81 @@
+html, body{
+	height: 100%;
+	margin: 0px;
+}
+.parallax{ 
+	background-image: url(bg.png); 
+	height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2{ 
+	background-image: url(bg2.jpg); 
+	height: 60%;
+    /*background-attachment: fixed;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3{ 
+	background-image: url(bg3.jpg); 
+	height: 60%;
+    /*background-attachment: fixed;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax4{
+	background-image: url(lastbg.png); 
+	height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+ }
+
+.box{
+	background: linear-gradient(-90deg,#d5842b,#eaae5e,#d5842b);
+	padding: 4px;
+	color: rgba(255,255,255,0);
+}
+
+.ghostbox{
+	background: rgba(255,255,255,0.36);
+	align-items: center;
+	text-align: center;
+	width: 600px;
+	height: 100%;
+	margin: 0 auto;
+	border-right: rgb(213, 132, 43) solid 5px;
+	border-left: rgb(213, 132, 43) solid 5px;
+	color: rgb(234, 174, 94);
+	text-shadow: 1px 2px 2.5px black;
+}
+
+.play{
+    background-color: rgb(55,55,55);
+    border: rgb(213, 132, 43) 3px solid;
+    height: 200;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 32px;
+    color: rgb(250,230,230);
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    width: 8%;
+    background-attachment: fixed;
+}
+.play a{
+	text-decoration: none;
+}
+p{
+    padding: 25px;
+    font-size: 18px;
+}
